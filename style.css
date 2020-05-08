@@ -140,7 +140,7 @@ select {
 
 @media screen and (max-width: 1024px) {
     form input {
-        max-width:50%;
+        max-width:40%;
     }
     select  {
         width:60%;
